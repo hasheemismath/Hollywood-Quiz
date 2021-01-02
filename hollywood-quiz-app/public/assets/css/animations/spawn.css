@@ -1,0 +1,68 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:735f838088b19e894e8b8b7199d62d66:7e1c659063b6082158ed78b1981757fe:40e0eb7e51d292b8e73ecc63dc943008$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(spawn.png);}
+
+.spawn_00000 {width:332px; height:300px; background-position: -1px -1px}
+.spawn_00001 {width:332px; height:300px; background-position: -1px -303px}
+.spawn_00002 {width:332px; height:300px; background-position: -1px -605px}
+.spawn_00003 {width:332px; height:300px; background-position: -1px -907px}
+.spawn_00004 {width:332px; height:300px; background-position: -1px -1209px}
+.spawn_00005 {width:332px; height:300px; background-position: -335px -1px}
+.spawn_00006 {width:332px; height:300px; background-position: -335px -303px}
+.spawn_00007 {width:332px; height:300px; background-position: -335px -605px}
+.spawn_00008 {width:332px; height:300px; background-position: -335px -907px}
+.spawn_00009 {width:332px; height:300px; background-position: -335px -1209px}
+.spawn_00010 {width:332px; height:300px; background-position: -669px -1px}
+.spawn_00011 {width:332px; height:300px; background-position: -669px -303px}
+.spawn_00012 {width:332px; height:300px; background-position: -669px -605px}
+.spawn_00013 {width:332px; height:300px; background-position: -669px -907px}
+.spawn_00014 {width:332px; height:300px; background-position: -669px -1209px}
+.spawn_00015 {width:332px; height:300px; background-position: -1003px -1px}
+.spawn_00016 {width:332px; height:300px; background-position: -1003px -303px}
+.spawn_00017 {width:332px; height:300px; background-position: -1003px -605px}
+.spawn_00018 {width:332px; height:300px; background-position: -1003px -907px}
+.spawn_00019 {width:332px; height:300px; background-position: -1003px -1209px}
+.spawn_00020 {width:332px; height:300px; background-position: -1337px -1px}
+.spawn_00021 {width:332px; height:300px; background-position: -1337px -303px}
+.spawn_00022 {width:332px; height:300px; background-position: -1337px -605px}
+.spawn_00023 {width:332px; height:300px; background-position: -1337px -907px}
+.spawn_00024 {width:332px; height:300px; background-position: -1337px -1209px}
+.spawn_00025 {width:332px; height:300px; background-position: -1671px -1px}
+.spawn_00026 {width:332px; height:300px; background-position: -1671px -303px}
+.spawn_00027 {width:332px; height:300px; background-position: -1671px -605px}
+.spawn_00028 {width:332px; height:300px; background-position: -1671px -907px}
+.spawn_00029 {width:332px; height:300px; background-position: -1671px -1209px}
+.spawn_00030 {width:332px; height:300px; background-position: -2005px -1px}
+.spawn_00031 {width:332px; height:300px; background-position: -2005px -303px}
+.spawn_00032 {width:332px; height:300px; background-position: -2005px -605px}
+.spawn_00033 {width:332px; height:300px; background-position: -2005px -907px}
+.spawn_00034 {width:332px; height:300px; background-position: -2005px -1209px}
+.spawn_00035 {width:332px; height:300px; background-position: -2339px -1px}
+.spawn_00036 {width:332px; height:300px; background-position: -2673px -1px}
+.spawn_00037 {width:332px; height:300px; background-position: -3007px -1px}
+.spawn_00038 {width:332px; height:300px; background-position: -2339px -303px}
+.spawn_00039 {width:332px; height:300px; background-position: -2339px -605px}
+.spawn_00040 {width:332px; height:300px; background-position: -2339px -907px}
+.spawn_00041 {width:332px; height:300px; background-position: -2339px -1209px}
+.spawn_00042 {width:332px; height:300px; background-position: -2673px -303px}
+.spawn_00043 {width:332px; height:300px; background-position: -3007px -303px}
+.spawn_00044 {width:332px; height:300px; background-position: -2673px -605px}
+.spawn_00045 {width:332px; height:300px; background-position: -2673px -907px}
+.spawn_00046 {width:332px; height:300px; background-position: -2673px -1209px}
+.spawn_00047 {width:332px; height:300px; background-position: -3007px -605px}
+.spawn_00048 {width:332px; height:300px; background-position: -3007px -907px}
+.spawn_00049 {width:332px; height:300px; background-position: -3007px -1209px}
+
+
+@media (min-width: 768px) {
+}

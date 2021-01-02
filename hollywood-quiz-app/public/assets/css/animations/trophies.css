@@ -1,0 +1,572 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:499fd919f7a3a88ef2f54e26823d5772:fc4d989a0853853b3f30efdd05899a28:1709a0a50a232791bf2192994b910683$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {
+  display: inline-block;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(trophies.png);
+}
+
+.trophies_full_00001 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -1px;
+}
+.trophies_full_00002 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -1px;
+}
+.trophies_full_00003 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -1px;
+}
+.trophies_full_00004 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -1px;
+}
+.trophies_full_00005 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -1px;
+}
+.trophies_full_00006 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -1px;
+}
+.trophies_full_00007 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -1px;
+}
+.trophies_full_00008 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -136px;
+}
+.trophies_full_00009 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -136px;
+}
+.trophies_full_00010 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -136px;
+}
+.trophies_full_00011 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -136px;
+}
+.trophies_full_00012 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -136px;
+}
+.trophies_full_00013 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -136px;
+}
+.trophies_full_00014 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -136px;
+}
+.trophies_full_00015 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -271px;
+}
+.trophies_full_00016 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -271px;
+}
+.trophies_full_00017 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -271px;
+}
+.trophies_full_00018 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -271px;
+}
+.trophies_full_00019 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -271px;
+}
+.trophies_full_00020 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -271px;
+}
+.trophies_full_00021 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -271px;
+}
+.trophies_full_00022 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -406px;
+}
+.trophies_full_00023 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -406px;
+}
+.trophies_full_00024 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -406px;
+}
+.trophies_full_00025 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -406px;
+}
+.trophies_full_00026 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -406px;
+}
+.trophies_full_00027 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -406px;
+}
+.trophies_full_00028 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -406px;
+}
+.trophies_full_00029 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -541px;
+}
+.trophies_full_00030 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -541px;
+}
+.trophies_full_00031 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -541px;
+}
+.trophies_full_00032 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -541px;
+}
+.trophies_full_00033 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -541px;
+}
+.trophies_full_00034 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -541px;
+}
+.trophies_full_00035 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -541px;
+}
+.trophies_full_00036 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -676px;
+}
+.trophies_full_00037 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -676px;
+}
+.trophies_full_00038 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -676px;
+}
+.trophies_full_00039 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -676px;
+}
+.trophies_full_00040 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -676px;
+}
+.trophies_full_00041 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -676px;
+}
+.trophies_full_00042 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -676px;
+}
+.trophies_full_00043 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -811px;
+}
+.trophies_full_00044 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -811px;
+}
+.trophies_full_00045 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -811px;
+}
+.trophies_full_00046 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -811px;
+}
+.trophies_full_00047 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -811px;
+}
+.trophies_full_00048 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -811px;
+}
+.trophies_full_00049 {
+  width: 270px;
+  height: 133px;
+  background-position: -1633px -811px;
+}
+.trophies_full_00050 {
+  width: 270px;
+  height: 133px;
+  background-position: -1px -946px;
+}
+.trophies_full_00051 {
+  width: 270px;
+  height: 133px;
+  background-position: -273px -946px;
+}
+.trophies_full_00052 {
+  width: 270px;
+  height: 133px;
+  background-position: -545px -946px;
+}
+.trophies_full_00053 {
+  width: 270px;
+  height: 133px;
+  background-position: -817px -946px;
+}
+.trophies_full_00054 {
+  width: 270px;
+  height: 133px;
+  background-position: -1089px -946px;
+}
+.trophies_full_00055 {
+  width: 270px;
+  height: 133px;
+  background-position: -1361px -946px;
+}
+
+@media (min-width: 768px) {
+  .trophies_full_00001 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -1px;
+  }
+  .trophies_full_00002 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -1px;
+  }
+  .trophies_full_00003 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -1px;
+  }
+  .trophies_full_00004 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -1px;
+  }
+  .trophies_full_00005 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -1px;
+  }
+  .trophies_full_00006 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -1px;
+  }
+  .trophies_full_00007 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -1px;
+  }
+  .trophies_full_00008 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -270px;
+  }
+  .trophies_full_00009 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -270px;
+  }
+  .trophies_full_00010 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -270px;
+  }
+  .trophies_full_00011 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -270px;
+  }
+  .trophies_full_00012 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -270px;
+  }
+  .trophies_full_00013 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -270px;
+  }
+  .trophies_full_00014 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -270px;
+  }
+  .trophies_full_00015 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -539px;
+  }
+  .trophies_full_00016 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -539px;
+  }
+  .trophies_full_00017 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -539px;
+  }
+  .trophies_full_00018 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -539px;
+  }
+  .trophies_full_00019 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -539px;
+  }
+  .trophies_full_00020 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -539px;
+  }
+  .trophies_full_00021 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -539px;
+  }
+  .trophies_full_00022 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -808px;
+  }
+  .trophies_full_00023 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -808px;
+  }
+  .trophies_full_00024 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -808px;
+  }
+  .trophies_full_00025 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -808px;
+  }
+  .trophies_full_00026 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -808px;
+  }
+  .trophies_full_00027 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -808px;
+  }
+  .trophies_full_00028 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -808px;
+  }
+  .trophies_full_00029 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -1077px;
+  }
+  .trophies_full_00030 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -1077px;
+  }
+  .trophies_full_00031 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -1077px;
+  }
+  .trophies_full_00032 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -1077px;
+  }
+  .trophies_full_00033 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -1077px;
+  }
+  .trophies_full_00034 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -1077px;
+  }
+  .trophies_full_00035 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -1077px;
+  }
+  .trophies_full_00036 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -1346px;
+  }
+  .trophies_full_00037 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -1346px;
+  }
+  .trophies_full_00038 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -1346px;
+  }
+  .trophies_full_00039 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -1346px;
+  }
+  .trophies_full_00040 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -1346px;
+  }
+  .trophies_full_00041 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -1346px;
+  }
+  .trophies_full_00042 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -1346px;
+  }
+  .trophies_full_00043 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -1615px;
+  }
+  .trophies_full_00044 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -1615px;
+  }
+  .trophies_full_00045 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -1615px;
+  }
+  .trophies_full_00046 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -1615px;
+  }
+  .trophies_full_00047 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -1615px;
+  }
+  .trophies_full_00048 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -1615px;
+  }
+  .trophies_full_00049 {
+    width: 540px;
+    height: 267px;
+    background-position: -3253px -1615px;
+  }
+  .trophies_full_00050 {
+    width: 540px;
+    height: 267px;
+    background-position: -1px -1884px;
+  }
+  .trophies_full_00051 {
+    width: 540px;
+    height: 267px;
+    background-position: -543px -1884px;
+  }
+  .trophies_full_00052 {
+    width: 540px;
+    height: 267px;
+    background-position: -1085px -1884px;
+  }
+  .trophies_full_00053 {
+    width: 540px;
+    height: 267px;
+    background-position: -1627px -1884px;
+  }
+  .trophies_full_00054 {
+    width: 540px;
+    height: 267px;
+    background-position: -2169px -1884px;
+  }
+  .trophies_full_00055 {
+    width: 540px;
+    height: 267px;
+    background-position: -2711px -1884px;
+  }
+}

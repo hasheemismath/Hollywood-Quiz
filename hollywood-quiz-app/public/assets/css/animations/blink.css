@@ -1,0 +1,35 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:1a2b0e1a2e51b29c6eb03235bb5d9ccc:63439672ffe16ed52525631906987bd7:14e1722a26b9bdf0d255ae282ddfda64$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(blink.png);}
+.blinking_00020 {width:332px; height:300px; background-position: -1003px -605px}
+.blinking_00000 {width:332px; height:300px; background-position: -1px -1px}
+.blinking_00001 {width:332px; height:300px; background-position: -1px -303px}
+.blinking_00002 {width:332px; height:300px; background-position: -1px -605px}
+.blinking_00003 {width:332px; height:300px; background-position: -1px -907px}
+.blinking_00004 {width:332px; height:300px; background-position: -1px -1209px}
+.blinking_00005 {width:332px; height:300px; background-position: -1px -1511px}
+.blinking_00006 {width:332px; height:300px; background-position: -335px -1px}
+.blinking_00007 {width:332px; height:300px; background-position: -335px -303px}
+.blinking_00008 {width:332px; height:300px; background-position: -335px -605px}
+.blinking_00009 {width:332px; height:300px; background-position: -335px -907px}
+.blinking_00010 {width:332px; height:300px; background-position: -335px -1209px}
+.blinking_00011 {width:332px; height:300px; background-position: -335px -1511px}
+.blinking_00012 {width:332px; height:300px; background-position: -669px -1px}
+.blinking_00013 {width:332px; height:300px; background-position: -669px -303px}
+.blinking_00014 {width:332px; height:300px; background-position: -669px -605px}
+.blinking_00015 {width:332px; height:300px; background-position: -669px -907px}
+.blinking_00016 {width:332px; height:300px; background-position: -669px -1209px}
+.blinking_00017 {width:332px; height:300px; background-position: -669px -1511px}
+.blinking_00018 {width:332px; height:300px; background-position: -1003px -1px}
+.blinking_00019 {width:332px; height:300px; background-position: -1003px -303px}
+
